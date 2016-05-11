@@ -5,7 +5,7 @@ With the guidence of [Scratchapixel's in depth ray tracing tutorials](http://www
 this simple ray tracing application is an engaging and interesting way to build all kinds of skills and
 experience with C++
 
-	Credit where credit is due. Because this project leans heavily on Scratchapixel's tutorials, much of
+Credit where credit is due. Because this project leans heavily on Scratchapixel's tutorials, much of
 the codebase will closely replicate code provided by the author of Scratchapixel. However, this project
 does not follow the structure of Scratchapixel. The focus of this project _is_ the modifications that
 need to be made to allow for a different structure.
